@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  color: #66BFBF;
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: dotted none none;
+  color: #EAF6F6;
+  width: 6%;
+  border-top-width: 10px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.mountain-img {
+  margin-top: 100px;
+}
+
+.profile-img {
+  width: 12%;
+  margin-top: 80px;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.sleeping-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-text {
+  width: 30%;
+  margin: 50px auto 100px;
+  line-height: 2;
+}
+
+.text {
+  line-height: 2;
+  width: 38%;
+  margin: 40px auto 50px
+}
+
+.footer-link {
+  color: #11999E;
+  text-decoration: none;
+  margin: 50px 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.my-skill {
+  margin: 100px auto;
+}
+
+.btn {
+	box-shadow:inset 3px 11px 17px -7px #0da0a6;
+	background-color:#0da0a6;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:22px;
+	font-weight:bold;
+	padding:14px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #00eaea;
+  margin: auto auto 100px;
+}
+
+.btn:hover {
+	background-color:#00eaea;
+}
+
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.copywright  {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  margin-top: 50px;
+}
